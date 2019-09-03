@@ -1,0 +1,8 @@
+data=set([1,2,3,4,5,6]) 
+data2=set([1,2,3,3,1,2])
+print(data|data2)
+print(data - data2)
+print(data & data2)
+print(data ^ data2)
+#set.remove()
+#set.add()
